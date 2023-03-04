@@ -1,2 +1,8 @@
 # detach
-A simple C# script to reliably spawn and detach standalone child processes from the windows terminal 
+A simple C# script to reliably spawn and detach standalone child processes from the windows terminal.
+
+## Usage
+
+```cmd
+detach vim .gitignore
+```
